@@ -1,0 +1,41 @@
+$ git init
+
+$ git status
+
+$ git add .
+
+$ git status
+
+$ git commit
+
+$ git remote add origin https://github.com/maindsamiksha/github-practice.git
+
+$ git push -u origin master
+
+$ git clone https://github.com/maindsamiksha/github-practice.git
+
+$ git branch sam
+
+$ git checkout sam
+
+$ git branchit 
+
+$ git status
+
+$ git add .
+
+$ git status
+
+$ git add sami.txt
+
+$ git status
+
+$ git commit -m "hey how "
+
+$ git commit -m "hey how "
+
+$ git push --set upstream origin sam
+
+$ git push -u origin sam
+
+$ git push
